@@ -40,7 +40,7 @@ config-version: 3
 
 ## verbose
 
-Sets whether the server should dump all configuration values to the server log on startup (this maybe not working)
+Sets whether the server should dump all configuration values to the server log on startup (this might not be functional right now)
 
 
 
@@ -52,34 +52,34 @@ Commands will not be proceeded while the player is joining the server
 
 ### simpler-behavior
 
-Make villigers simpler!
+Make villagers simpler!
 
 
 
 ### hide-at-night
 
-Villiger Hide At Night
+Whether villagers hide at night or not.
 
 
 
 ### collisions:
 
-Disable or enable collsions
+Toggle collisions
 
 
 
 ### water-seek-range
 
-Change how many blocks a water source can make farmland moist for example if thats 8 your farm can be 8x8
+Change how many blocks a water source can make farmland moist. For example, if the value is 8, your farm can be 8x8
 
 
 
 ### gets-moist-from-water-cauldron
 
-Weather you want farmland to get moist from water cauldrons
+Whether you want farmland to get moist from water cauldrons or not
 
 
 
 ### config-version
 
-DO NOT CHANGE!!!!!!!!!!!!!!
+**Do not change this!** This is the version for the configuration file.
