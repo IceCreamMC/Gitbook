@@ -4,7 +4,7 @@ description: Installing IceCream From Scratch
 
 # Installation
 
-**⚠️ WARNING** Please note that we're still in development and running IceCreamMC is a bad idea on a big server!
+[! WARNING] Please note that we're still in development and running IceCreamMC is a bad idea on a big server!
 
 ### Installing From Scratch On Pterodactyl/Jexacytl
 
